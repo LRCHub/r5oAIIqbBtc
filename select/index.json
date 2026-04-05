@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Heavy With Hoping",
   "base_artist": "Madeon",
-  "createdAt": "2026-04-05T01:25:35.303113Z",
+  "createdAt": "2026-04-05T01:28:17.834545Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "Madeon",
       "has_synced": true,
       "path": "select/04_Heavy_With_Hoping_(Live)_Madeon.lrc"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Heavy With Hoping",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/localdb_01_Heavy_With_Hoping_Madeon.lrc",
+      "repo_name": "r5oAIIqbBtc"
     }
   ]
 }
