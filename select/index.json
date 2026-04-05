@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Heavy With Hoping",
+  "base_artist": "Madeon",
+  "createdAt": "2026-04-05T01:25:35.303113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heavy With Hoping",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/01_Heavy_With_Hoping_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heavy With Hoping (Instrumental)",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/02_Heavy_With_Hoping_(Instrumental)_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heavy With Hoping",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/03_Heavy_With_Hoping_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heavy With Hoping (Live)",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/04_Heavy_With_Hoping_(Live)_Madeon.lrc"
+    }
+  ]
+}
